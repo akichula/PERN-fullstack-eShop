@@ -8,7 +8,7 @@
 - Sequelize
 
 [FRONTEND]
- React
+- React
 - Mobx
 
 ### Libs
